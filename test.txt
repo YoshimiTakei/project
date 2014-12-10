@@ -1,7 +1,5 @@
 i added another line.
 insert something 
 let's try 
-Cww
-C
-C it will take time to get used to vim.
-u
+it will take time to get used to vim.
+
