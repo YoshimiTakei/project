@@ -1,4 +1,5 @@
 i added another line.
+insert again
 insert something 
 let's try 
 it will take time to get used to vim.
